@@ -1,0 +1,37 @@
+--------------------------------------------------------------------------------
+|L                                                                             |
+|                                                                              |
+|                       ROOM NUMBER 2 ---- GAME AREA                           |
+|------------------------------------------------------------------------------|
+|                            w              @w               w                 |
+|                  /         w               w    /                            |
+|                            w                               w                 |
+|                            wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww|
+|                                                                              |
+|           1                                                                  |
+|                                                                              |
+|                                       @                                      |
+|                                                                              |
+|                                                                              |
+|                                                          w          /        |
+|                                                          w         wwwwwwwwww|
+|                                                          w         w         |
+|                        /                   ?             w         w    2    |
+|                                                          w    ?    w         |
+|------------------------------------------------------------------------------|
+|                               MESSAGES                                       |
+|                                                                              |
+|                                                                              |
+--------------------------------------------------------------------------------
+
+door 1 (12,10) to room: 1. 
+door 2 (74,18) to room: 3. switches: 1 and 2 and 3 and 4.
+switch 1 (19,6) state: OFF
+switch 2 (70,15) state: OFF
+switch 3 (25,18) state: OFF
+switch 4 (50,6) state: OFF
+dark
+End information.
+
+
+

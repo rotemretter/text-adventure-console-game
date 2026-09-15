@@ -1,0 +1,32 @@
+--------------------------------------------------------------------------------
+|L                                                                            |
+|                                                                              |
+|                       ROOM NUMBER 3 ---- GAME AREA                           |
+|------------------------------------------------------------------------------|
+|                                                            ***            ###|
+|                                                            w  w              |
+|                                                            wK w       wwwwwww|
+|                                                            w  w       w      |
+|wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww     ***        w   ###|
+|   2                                                                   w     @|
+|                                                       wwww            wwwwwww|
+|                                                       w @w                   |
+|                                                        **                    |
+|                                                                wwwwww        |
+|             wwwwww                                             wwwwww        |
+|             w    w                                             wwwwww        |
+|   #         w    w                                             w????w        |
+|   #         wwwwww                                             w? 3?w        |
+|   #                                                            wwwwww        |
+|------------------------------------------------------------------------------|
+|                               MESSAGES                                       |
+|                                                                              |
+|                                                                              |
+--------------------------------------------------------------------------------
+
+door 2 (4,10) to room: 2. 
+door 3 (68,18) to room: -2. with key: (62, 7)
+spring (76,5) enter dir: R length: 3 
+spring (4,17) enter dir: D length: 3 
+spring (76,9) enter dir: R length: 3 
+End information.

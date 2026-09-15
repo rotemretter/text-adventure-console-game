@@ -1,0 +1,71 @@
+Q: What has keys but can't open locks?
+1: A door
+2: A map
+3: A keyboard
+4: A river
+C: 3
+
+Q: What gets wetter the more it dries?
+1: A towel
+2: Water
+3: Soap
+4: A sponge
+C: 1
+
+Q: What has a face and two hands but no arms or legs?
+1: A chair
+2: A clock
+3: A dog
+4: A tree
+C: 2
+
+Q: I speak without a mouth and hear without ears. What am I?
+1: A shadow
+2: A cloud
+3: A mirror
+4: An echo
+C: 4
+
+Q: What can travel around the world while staying in one corner?
+1: A compass
+2: A stamp
+3: A suitcase
+4: A globe
+C: 2
+
+Q: What has to be broken before you can use it?
+1: A rule
+2: A bottle
+3: A promise
+4: An egg
+C: 4
+
+Q: What has one eye but can not see?
+1: A needle
+2: A cyclops
+3: A camera
+4: A hurricane
+C: 2
+
+Q: What comes down but never goes up?
+1: Snow
+2: Rain
+3: Age
+4: Temperature
+C: 4
+
+Q: The more you take, the more you leave behind. What are they?
+1: Coins
+2: Memories
+3: Stones
+4: Footsteps
+C: 4
+
+Q: What has many teeth but can’t bite?
+1: A zipper
+2: A comb
+3: A shark
+4: A saw
+C: 3
+
+
