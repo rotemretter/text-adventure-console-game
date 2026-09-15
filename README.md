@@ -34,6 +34,7 @@ A feature-rich C++ console adventure game engine developed using Object-Oriented
 - **Game Mechanics:** `Bomb.cpp`/`h`, `Obstacle.cpp`/`h`, `Spring.h`, `Switch.h`, `Riddle.h`, `RiddleBank.cpp`/`h`, `GameEvent.h`, `MoveResult.h`
 - **Record & Replay:** `Steps.cpp`/`h`, `Results.cpp`/`h`, `adv-world.steps`, `adv-world.result`
 - **Game Data:** `room1.screen`, `room2.screen`, `room3.screen`, `riddles.txt`
+
 Compilation & Execution
 Windows (MSVC)
 Open Developer Command Prompt for Visual Studio and run:
