@@ -35,19 +35,17 @@ A feature-rich C++ console adventure game engine developed using Object-Oriented
 - **Record & Replay:** `Steps.cpp`/`h`, `Results.cpp`/`h`, `adv-world.steps`, `adv-world.result`
 - **Game Data:** `room1.screen`, `room2.screen`, `room3.screen`, `riddles.txt`
 
-Compilation & Execution
-Windows (MSVC)
+  ## Compilation & Execution
+
+### Windows (MSVC)
 Open Developer Command Prompt for Visual Studio and run:
-cl /EHsc /std:c++17 *.cpp /Fe:adv-world.exe
+`cl /EHsc /std:c++17 *.cpp /Fe:adv-world.exe`
 
-Windows (MinGW / GCC)
-g++ -std=c++17 *.cpp -o adv-world.exe
+### Windows (MinGW / GCC)
+`g++ -std=c++17 *.cpp -o adv-world.exe`
 
-Running the Game
-Standard interactive game: ./adv-world.exe
-
-Play and record game steps: ./adv-world.exe -save
-
-Replay recorded gameplay from file: ./adv-world.exe -load
-
-Fast automated validation without console rendering: ./adv-world.exe -load -silent
+### Running the Game
+- **Standard interactive game:** `./adv-world.exe`
+- **Play and record game steps:** `./adv-world.exe -save`
+- **Replay recorded gameplay from file:** `./adv-world.exe -load`
+- **Fast automated validation without console rendering:** `./adv-world.exe -load -silent`
